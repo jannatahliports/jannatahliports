@@ -1,6 +1,6 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Md%20Jannat%20Howlader&fontAlignY=30&desc=Aspiring%20Developer%20|%20Learning%20Programming%20|%20Future%20Software%20Engineer&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Md%20Jannat%20Howlader&fontAlignY=32&desc=Aspiring%20Developer%20|%20Learning%20Programming%20|%20Future%20Software%20Engineer&descAlignY=55&descAlign=50" />
 
 ## 👨‍💻 About Me
 
